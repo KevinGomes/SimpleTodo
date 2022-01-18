@@ -28,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+As of August 13 2021, GitHub no longer authenticates users using their passwords but rather through a token system. After failing to properly share this project to GitHub seven times, I found out that I must add my generated token in my Credential Manager as a generic credential in order to access GitHub remotely.
 
 ## License
 
